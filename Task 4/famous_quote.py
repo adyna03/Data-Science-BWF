@@ -1,0 +1,1 @@
+print('Sally Ride once said, "THE STARS DONT LOOK BIGGER, BUT THEY DO LOOK BRIGHTER"')
